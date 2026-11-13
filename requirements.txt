@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+python-dateutil
+pandas
+openpyxl
+Pillow
+gunicorn
+whitenoise
+psycopg[binary]
